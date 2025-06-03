@@ -1,0 +1,11 @@
+torch
+transformers
+torch
+ultralytics 
+pillow  
+tensorflow
+sahi
+python-multipart
+fastapi
+uvicorn
+gunicorn
