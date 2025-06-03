@@ -1,11 +1,11 @@
 torch
-transformers
-torch
-ultralytics 
-pillow  
 tensorflow
+ultralytics
+opencv-python
+pillow
+transformers
 sahi
-python-multipart
 fastapi
 uvicorn
 gunicorn
+python-multipart
